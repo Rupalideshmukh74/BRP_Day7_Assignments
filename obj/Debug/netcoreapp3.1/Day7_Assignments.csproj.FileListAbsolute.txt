@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\Day7_Assignments\bin\Debug\netcoreapp3.1\Day7_Assignments.exe
+C:\Users\admin\source\repos\Day7_Assignments\bin\Debug\netcoreapp3.1\Day7_Assignments.deps.json
+C:\Users\admin\source\repos\Day7_Assignments\bin\Debug\netcoreapp3.1\Day7_Assignments.runtimeconfig.json
+C:\Users\admin\source\repos\Day7_Assignments\bin\Debug\netcoreapp3.1\Day7_Assignments.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Day7_Assignments\bin\Debug\netcoreapp3.1\Day7_Assignments.dll
+C:\Users\admin\source\repos\Day7_Assignments\bin\Debug\netcoreapp3.1\Day7_Assignments.pdb
+C:\Users\admin\source\repos\Day7_Assignments\obj\Debug\netcoreapp3.1\Day7_Assignments.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Day7_Assignments\obj\Debug\netcoreapp3.1\Day7_Assignments.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Day7_Assignments\obj\Debug\netcoreapp3.1\Day7_Assignments.AssemblyInfo.cs
+C:\Users\admin\source\repos\Day7_Assignments\obj\Debug\netcoreapp3.1\Day7_Assignments.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Day7_Assignments\obj\Debug\netcoreapp3.1\Day7_Assignments.dll
+C:\Users\admin\source\repos\Day7_Assignments\obj\Debug\netcoreapp3.1\Day7_Assignments.pdb
+C:\Users\admin\source\repos\Day7_Assignments\obj\Debug\netcoreapp3.1\Day7_Assignments.genruntimeconfig.cache
