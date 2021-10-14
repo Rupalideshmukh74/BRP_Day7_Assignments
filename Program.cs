@@ -8,6 +8,9 @@ namespace Day7_Assignments
         {
             Console.WriteLine("Welcome to Day 7 Assignments");
             FindPrimeFactors();
+            Binary b = new Binary();
+            b.findBinary();
+            
 
 
         }
